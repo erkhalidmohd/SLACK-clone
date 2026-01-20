@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Salesforce Sans";
+    src: url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.eot");
+    src: url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.svg#Salesforce Sans")format("svg");
+}
+@import "tailwindcss";
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family:Salesforce Sans ;
+}
